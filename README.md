@@ -8,4 +8,4 @@
 
 - SourceTreeを使った手順
 - IntelliJを使った手順
-- VS Codeを使った手順
+- VSCodeを使った手順
