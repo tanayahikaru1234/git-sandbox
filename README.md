@@ -4,4 +4,8 @@
 
 [https://qiita.com/takamii228/items/80c0996a0b5fa39337bd](http://qiita.com/takamii228/items/80c0996a0b5fa39337bd)
 
+# To Do
 
+- SourceTreeを使った手順
+- IntelliJを使った手順
+- VS Codeを使った手順
